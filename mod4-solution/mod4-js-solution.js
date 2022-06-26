@@ -20,7 +20,7 @@ const despedida = {
 }());
 
 (function () {
-	var nombres = ['Laia', 'Monica', 'Jonas', 'Lidia', 'Jana', 'Sonia', 'Juana', 'Silvia', 'Julieta', 'Jaume', 'Sofia', 'Maria', 'Julia'];
+	var nombres = ['Yaakov','John','Jen','Jacob','Paul','Frank','Larry','Paula','Laura','Jim'];
 	for (var i = 0; i < nombres.length; i++) {
 	var nombre = nombres[i];
 	var firstLetter = nombre.charAt(0).toLowerCase();
